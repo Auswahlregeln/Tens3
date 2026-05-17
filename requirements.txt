@@ -1,6 +1,5 @@
-# En tu terminal, dentro de la carpeta Tens3:
-echo "streamlit>=1.35.0
+streamlit>=1.35.0
 sympy>=1.12
-numpy>=1.26.4,<2.0
+numpy>=1.26.4
 matplotlib>=3.8.0
-plotly>=5.18.0" > requirements.txt
+plotly>=5.18.0
